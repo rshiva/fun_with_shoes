@@ -1,5 +1,5 @@
 require "open-uri"
- require "JSON"
+require "JSON"
 
 Shoes.app do
   background "#c0deed"
